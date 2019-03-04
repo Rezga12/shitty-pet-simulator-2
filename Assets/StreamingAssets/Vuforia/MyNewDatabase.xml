@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="dama4" size="0.050000 0.070455" />
+    <ImageTarget name="dama33" size="0.050000 0.070000" />
+    <ImageTarget name="chess2" size="0.500000 0.499500" />
+    <ImageTarget name="chess" size="0.500000 0.499500" />
+    <ImageTarget name="dama2" size="1.000000 1.433333" />
+    <ImageTarget name="dama" size="1.000000 1.022222" />
+    <ImageTarget name="pic" size="0.150000 0.070995" />
+    <ImageTarget name="adas" size="0.150000 0.104545" />
+    <ImageTarget name="ace" size="1.000000 1.400000" />
+    <ImageTarget name="cms-image-000017810" size="0.150000 0.072650" />
+  </Tracking>
+</QCARConfig>
